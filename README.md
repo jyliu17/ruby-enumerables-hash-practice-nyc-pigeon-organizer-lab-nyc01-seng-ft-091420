@@ -21,7 +21,7 @@ the following collected data on New York City pigeons in the form of a hash:
 
 ```ruby
 pigeon_data = {
-  :color => {
+  :color => { 
     :purple => ["Theo", "Peter Jr.", "Lucky"],
     :grey => ["Theo", "Peter Jr.", "Ms. K"],
     :white => ["Queenie", "Andrew", "Ms. K", "Alex"],
